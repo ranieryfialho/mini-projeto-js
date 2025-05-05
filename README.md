@@ -64,7 +64,7 @@ mini-projeto-js/
 └── node_modules/      # Ignorado no Git
 
 🛑 Importante
-Adicione no seu ```bash .gitignore:
+Adicione no seu .gitignore:
 
 ```bash
 node_modules/
