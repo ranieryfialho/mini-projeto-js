@@ -1,0 +1,23 @@
+{
+  "name": "mini-projeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "api": "npx json-server --watch api.json --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranieryfialho/mini-projeto-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranieryfialho/mini-projeto-js/issues"
+  },
+  "homepage": "https://github.com/ranieryfialho/mini-projeto-js#readme",
+  "description": "",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
